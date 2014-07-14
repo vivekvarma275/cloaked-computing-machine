@@ -1,4 +1,4 @@
 cloaked-computing-machine
 =========================
 
-Repository of some basic Java EE related projects
+This is a repository of basic Core Java related projects and POCs.
